@@ -1,0 +1,51 @@
+export const data = [
+  {
+    id: 1,
+    name: "rickRoll",
+    type: "video",
+    path: "/file-server/rickyroll.mp4",
+    size: "2.1 MB",
+    extension: "mp4",
+  },
+  {
+    id: 2,
+    name: "oceanRick",
+    type: "audio",
+    path: "/file-server/oceanrick.mp3",
+    size: "856 KB",
+    extension: "mp3",
+  },
+  {
+    id: 3,
+    name: "englishLesson",
+    type: "document",
+    path: "/file-server/document.pdf",
+    size: "94.3 KB",
+    extension: "pdf",
+  },
+  {
+    id: 4,
+    name: "formation",
+    type: "image",
+    path: "/file-server/formation.jpg",
+    size: "25.5 KB",
+    extension: "jpg",
+  },
+  {
+    id: 5,
+    name: "formation1",
+    type: "image",
+    path: "/file-server/formation1.jpg",
+    size: "35.5 KB",
+    extension: "jpg",
+  },
+  {
+    id: 6,
+    name: "formation2",
+    type: "image",
+    path: "/file-server/formation2.jpg",
+    size: "643 B",
+    extension: "jpg",
+  },
+  
+];

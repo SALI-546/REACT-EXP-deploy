@@ -1,0 +1,17 @@
+react-filemanager
+Un gestionnaire de fichiers local. Dans ce gestionnaire de fichiers, nous souhaitons afficher les différents types de médias sur notre application web. Ceci est similaire à des plateformes comme Google Drive, Microsoft OneDrive et iCloud d'Apple.
+
+Description des fonctionnalités :
+a. Fonctionnalité de recherche :
+La fonctionnalité de recherche permet aux utilisateurs de rechercher des fichiers spécifiques au sein de l'application web multimédia. Elle fournit une barre de recherche où les utilisateurs peuvent saisir des mots-clés ou des noms de fichiers. Lors de la saisie de la requête de recherche, l'application filtre la liste des fichiers et affiche uniquement ceux qui correspondent aux critères de recherche. Cette fonctionnalité permet aux utilisateurs de localiser et d'accéder rapidement aux fichiers qu'ils souhaitent.
+
+b. Fonctionnalité de tri par type et taille de fichier :
+La fonctionnalité de tri permet aux utilisateurs de trier la liste des fichiers en fonction du type et de la taille des fichiers. Les utilisateurs peuvent sélectionner l'option de tri souhaitée dans un menu déroulant, tel que "Trier par type de fichier" ou "Trier par taille de fichier". L'application réorganise alors la liste des fichiers en conséquence, en affichant les fichiers dans un ordre croissant ou décroissant en fonction des critères de tri sélectionnés. Cette fonctionnalité aide les utilisateurs à organiser et à trouver des fichiers en fonction de leurs besoins spécifiques.
+
+Explication du choix des fonctionnalités :
+Les fonctionnalités choisies, la recherche et le tri par type et taille de fichier, sont des ajouts appropriés à l'application web multimédia pour les raisons suivantes :
+Fonctionnalité de recherche : La fonctionnalité de recherche améliore l'utilisabilité et l'efficacité de l'application en offrant un moyen rapide et pratique de rechercher des fichiers. À mesure que le nombre de fichiers dans l'application augmente, il devient difficile pour les utilisateurs de localiser manuellement des fichiers spécifiques. La fonctionnalité de recherche résout ce problème en permettant aux utilisateurs de saisir des mots-clés ou des noms de fichiers, réduisant ainsi considérablement le temps et les efforts nécessaires pour trouver des fichiers.
+
+Fonctionnalité de tri par type et taille de fichier : Cette fonctionnalité offre aux utilisateurs une flexibilité supplémentaire dans l'organisation et la gestion de leurs fichiers. Les utilisateurs peuvent avoir des exigences spécifiques, comme regrouper des fichiers du même type ou identifier des fichiers en fonction de leur taille. En intégrant la fonctionnalité de tri, l'application web multimédia répond à ces besoins, permettant aux utilisateurs d'organiser et de visualiser les fichiers de manière plus significative et organisée.
+
+Les nouvelles fonctionnalités mentionnées, telles que la recherche, le tri par type et taille de fichier, et l'ajout d'informations supplémentaires dans la liste de fichiers (extension, type de fichier, et taille de fichier), ne sont pas nécessairement innovantes ou révolutionnaires. Elles sont couramment présentes dans de nombreux systèmes de gestion de fichiers et applications. Cependant, elles sont des fonctionnalités précieuses et utiles qui améliorent la fonctionnalité et l'expérience utilisateur de l'application. Bien qu'elles ne soient pas considérées comme hautement innovantes ou distinctives en termes d'unicité, elles contribuent à l'utilisabilité et à l'efficacité globales de l'application.

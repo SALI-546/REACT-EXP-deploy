@@ -1,0 +1,30 @@
+# Ignore the large video file
+public/file-server/LDC-Real-2022.mp4
+
+# Ignore the cache files that are too large
+node_modules/.cache/
+
+# General Node modules
+/node_modules/
+
+# Build and distribution directories
+/build
+/dist
+
+# Log files
+*.log
+*.tmp
+
+# System specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Ignore all .zip files in public/file-server/Musique
+public/file-server/Musique/*.zip
+
+# Ignore any desktop.ini file
+public/file-server/Musique/desktop.ini
